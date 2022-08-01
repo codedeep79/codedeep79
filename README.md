@@ -125,6 +125,7 @@
 + HHVM
 + Hack
 + Capistrano
++ Next.js, React Query, Zustand, ThemeUI, RainbowKit, React Hook Form
 + Finance and Accounting: Braintree Payments, FundersClub, Payoneer, PayPal
 + HR: Cloudpeeps, Culture Amp, HackerRank, Piazza
 + Analytics: Apache Hadoop, Concurrent, Droplr, Heap, Google Analytics
