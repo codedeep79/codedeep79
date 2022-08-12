@@ -79,9 +79,30 @@
   </a>
 </p>
 
-
+## Main Technology 🌹
+Java Technology:
++ Java 8-18
++ Spring framework
++ Spring Boot
++ Java frameworks
 ## <p>Tech stack intends to supplement 🌹</p>
 + XenServer
++ Lightstreamer Server
++ 3rd party software integration
++ Designing a system of billions of users and further
++ Microservices Architecture
++ Distributed system design
++ Cloud Security
++ Saleforce Integration
++ Web Services Security
++ Apache Kafka
++ Information Architecture
++ Integration Architechure
++ Metadata Design
++ Jboss App Server
++ LEMP Stack
++ Test the system with billions of concurrent connections: Gatling, Tsung, JMeter, Locust, Locust.
++ MQTT Server
 + Kafka
 + Fluentd
 + OpenStack
@@ -125,7 +146,7 @@
 + HHVM
 + Hack
 + Capistrano
-+ Next.js, React Query, Zustand, ThemeUI, RainbowKit, React Hook Form
++ Next.js, React Query, Ant Design, Zustand, ThemeUI, RainbowKit, React Hook Form
 + Finance and Accounting: Braintree Payments, FundersClub, Payoneer, PayPal
 + HR: Cloudpeeps, Culture Amp, HackerRank, Piazza
 + Analytics: Apache Hadoop, Concurrent, Droplr, Heap, Google Analytics
