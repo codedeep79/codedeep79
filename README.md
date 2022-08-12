@@ -80,11 +80,12 @@
 </p>
 
 ## Main Technology 🌹
-Java Technology:
-+ Java 8-18
-+ Spring framework
-+ Spring Boot
-+ Java frameworks
++ Operating System: Debian 
++ Java Technology:
+  + Java 8-18
+  + Spring framework
+  + Spring Boot
+  + Java frameworks
 ## <p>Tech stack intends to supplement 🌹</p>
 + XenServer
 + Lightstreamer Server
