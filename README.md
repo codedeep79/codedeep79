@@ -88,6 +88,9 @@
   + Java frameworks
 ## <p>Tech stack intends to supplement 🌹</p>
 + XenServer
++ Fastly
++ Preact
++ Cloudflare
 + Lightstreamer Server
 + 3rd party software integration
 + Designing a system of billions of users and further
@@ -96,6 +99,7 @@
 + Cloud Security
 + Saleforce Integration
 + Web Services Security
++ Log: [Logstash](https://www.elastic.co/logstash/), [Vector](https://vector.dev/), [Filebeat](https://www.elastic.co/beats/filebeat), [FluentD](https://www.fluentd.org/), [Promtail](https://grafana.com/docs/loki/latest/clients/promtail/)
 + Apache Kafka
 + Information Architecture
 + Integration Architechure
