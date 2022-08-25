@@ -86,7 +86,7 @@
   + Spring framework
   + Spring Boot
   + Java frameworks
-+ Software Architecture Pattern: Microservices 
++ Software Architecture Pattern: Microservices, cloud-based 
 ## <p>Tech stack intends to supplement 🌹</p>
 + XenServer
 + Fastly
