@@ -77,12 +77,7 @@
   <a href="http://plnkr.co/users/jshacker9999/plunks">
     <img src="./assets/images/ide.jpeg" alt="Plunker" height="30" width="30">
   </a>
-   <a href="https://github.com/EpicGames">
-    <img src="./assets/images/epic-game.png" alt="Epic Games" height="30" width="30">
-  </a>
-  <a href="https://github.com/fbosstech">
-    <img src="./assets/images/fbosstech.png" alt="Fboss Technology" height="30" width="30">
-  </a>
+  
 </p>
 
 ## Main Technology 🌹
@@ -275,9 +270,19 @@
             <span>VBA</span><br><br><br>
             <img height="64px" src="assets/images/vbaproject.jpg">
         </a>
+      </td> 
+      <td width="20%" align="center">
+      	<a href="https://github.com/EpicGames">
+            <span>Epic Games</span><br><br><br>
+            <img height="64px" src="./assets/images/epic-game.png">
+        </a>
       </td>
-      <td width="20%" align="center"></td>
-      <td width="20%" align="center"></td>
+      <td width="20%" align="center">
+      	<a href="https://github.com/fbosstech">
+            <span>Fboss Technology</span><br><br><br>
+            <img height="64px" src="./assets/images/fbosstech.png">
+        </a>
+      </td>
       <td width="20%" align="center"></td>
     </tr>
   </tbody>
