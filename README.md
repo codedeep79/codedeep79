@@ -77,6 +77,12 @@
   <a href="http://plnkr.co/users/jshacker9999/plunks">
     <img src="./assets/images/ide.jpeg" alt="Plunker" height="30" width="30">
   </a>
+   <a href="https://github.com/EpicGames">
+    <img src="./assets/images/epic-game.png" alt="Epic Games" height="30" width="30">
+  </a>
+  <a href="https://github.com/fbosstech">
+    <img src="./assets/images/fbosstech.png" alt="Fboss Technology" height="30" width="30">
+  </a>
 </p>
 
 ## Main Technology 🌹
