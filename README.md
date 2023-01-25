@@ -1270,44 +1270,44 @@
 
 ## <p align="center">Visitor's count :eyes:</p>
 
-<p align="center"><img src="https://profile-counter.glitch.me/{haunt99}/count.svg" alt="Hau Nguyen :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{codedeep79}/count.svg" alt="Code Deep :: Visitor's Count" /></p>
 
 ## <p align="center">Top langs :tongue:</p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haunt99&langs_count=10&theme=tokyonight&layout=compact" alt="Hau Nguyen :: Top Langs" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codedeep79&langs_count=10&theme=tokyonight&layout=compact" alt="Hau Nguyen :: Top Langs" /></p>
 
 ## <p align="center">Profile stats :musical_keyboard:</p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=haunt99&show_icons=true&theme=tokyonight" alt="Hau Nguyen :: Profile Stats" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=codedeep79&show_icons=true&theme=tokyonight" alt="Hau Nguyen :: Profile Stats" /></p>
 
 ## <p align="center">Repository pin 📌</p>
 
 <p align="center">	
-<a href="https://github.com/haunt99/special-effects">
-	<img src="https://github-readme-stats.vercel.app/api/pin/?username=haunt99&repo=special-effects&theme=tokyonight" alt="Special effects" />
+<a href="https://github.com/codedeep79/special-effects">
+	<img src="https://github-readme-stats.vercel.app/api/pin/?username=codedeep79&repo=special-effects&theme=tokyonight" alt="Special effects" />
 </a>
 	
-<a href="https://github.com/haunt99/shader-camera">
-	<img src="https://github-readme-stats.vercel.app/api/pin/?username=haunt99&repo=shader-camera&theme=tokyonight" alt="Shader camera" />
+<a href="https://github.com/codedeep79/shader-camera">
+	<img src="https://github-readme-stats.vercel.app/api/pin/?username=codedeep79&repo=shader-camera&theme=tokyonight" alt="Shader camera" />
 </a>
 </p>
 
 <p align="center">	
-<a href="https://github.com/haunt99/tai-chi-figure" margin="100">
-	<img src="https://github-readme-stats.vercel.app/api/pin/?username=haunt99&repo=tai-chi-figure&theme=tokyonight" alt="Tai chi figure" />
+<a href="https://github.com/codedeep79/tai-chi-figure" margin="100">
+	<img src="https://github-readme-stats.vercel.app/api/pin/?username=codedeep79&repo=tai-chi-figure&theme=tokyonight" alt="Tai chi figure" />
 </a>
 	
-<a href="https://github.com/haunt99/mouse-pointer">
-	<img src="https://github-readme-stats.vercel.app/api/pin/?username=haunt99&repo=mouse-pointer&theme=tokyonight" alt="Mouse pointer" />
+<a href="https://github.com/codedeep79/mouse-pointer">
+	<img src="https://github-readme-stats.vercel.app/api/pin/?username=codedeep79&repo=mouse-pointer&theme=tokyonight" alt="Mouse pointer" />
 </a>
 </p>
 <p align="center">	
-<a href="https://github.com/haunt99/picture-slideshow" margin="100">
-	<img src="https://github-readme-stats.vercel.app/api/pin/?username=haunt99&repo=picture-slideshow&theme=tokyonight" alt="Picture slideshow" />
+<a href="https://github.com/codedeep79/picture-slideshow" margin="100">
+	<img src="https://github-readme-stats.vercel.app/api/pin/?username=codedeep79&repo=picture-slideshow&theme=tokyonight" alt="Picture slideshow" />
 </a>
 	
-<a href="https://github.com/haunt99/plane">
-	<img src="https://github-readme-stats.vercel.app/api/pin/?username=haunt99&repo=plane&theme=tokyonight" alt="Plane" />
+<a href="https://github.com/codedeep79/plane">
+	<img src="https://github-readme-stats.vercel.app/api/pin/?username=codedeep79&repo=plane&theme=tokyonight" alt="Plane" />
 </a>
 </p>
 
@@ -1315,7 +1315,7 @@
 
 <br>
 <p align='center'>
-<img src="https://activity-graph.herokuapp.com/graph?username=haunt99&theme=react-dark&hide_border=true">
+<img src="https://activity-graph.herokuapp.com/graph?username=codedeep79&theme=react-dark&hide_border=true">
 <p>
 
 <hr>
@@ -1324,7 +1324,7 @@
 ## <p align="center">Just a snake eating my contributions 🐍</p>
 
 <p align='center'>
-<img src="https://github.com/haunt99/haunt99/blob/output/github-contribution-grid-snake.svg">
+<img src="https://github.com/codedeep79/codedeep79/blob/output/github-contribution-grid-snake.svg">
 </p>
 
 <hr>
