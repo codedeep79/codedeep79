@@ -1311,15 +1311,7 @@
 </a>
 </p>
 
-## <p align="center">Github Contributions 📈</p>
 
-<br>
-<p align='center'>
-<img src="https://activity-graph.herokuapp.com/graph?username=codedeep79&theme=react-dark&hide_border=true">
-<p>
-
-<hr>
-<br>
 
 ## <p align="center">Just a snake eating my contributions 🐍</p>
 
